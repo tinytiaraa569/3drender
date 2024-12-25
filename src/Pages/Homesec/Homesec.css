@@ -1,0 +1,7 @@
+.filtershadowh1{
+    filter: drop-shadow(3px 3px 2px rgb(30, 130, 244));
+}
+.shadowlogo{
+    filter: drop-shadow(1px 1px 2px white);
+}
+
